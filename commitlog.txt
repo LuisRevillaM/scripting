@@ -5,3 +5,6 @@
  2 files changed, 3 insertions(+)
  create mode 100644 another.js
  create mode 100644 commitlog.txt
+[new-branch f984630] another commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 as.txt
