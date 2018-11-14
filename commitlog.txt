@@ -11,3 +11,4 @@
 [new-branch d5f5ee8] another message najada
  2 files changed, 3 insertions(+)
  create mode 100644 gas.txt
+[new-branch e03cef2] another message najadaaa only you
