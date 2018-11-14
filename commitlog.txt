@@ -1,3 +1,7 @@
 [master (root-commit) 9402ea9] first commit
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 file.js
+[master 8c05816] second commit
+ 2 files changed, 3 insertions(+)
+ create mode 100644 another.js
+ create mode 100644 commitlog.txt
