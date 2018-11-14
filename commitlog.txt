@@ -8,3 +8,6 @@
 [new-branch f984630] another commit
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 as.txt
+[new-branch d5f5ee8] another message najada
+ 2 files changed, 3 insertions(+)
+ create mode 100644 gas.txt
