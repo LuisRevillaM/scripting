@@ -1,2 +1,0 @@
-Course on learning UNIX commands
-https://github.com/substack/fmmn/blob/master/day1/unix.md

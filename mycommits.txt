@@ -1,2 +1,0 @@
-"commit": "[new-branch 402ef08] first commit"
-"project": "Course on learning UNIX commands"
