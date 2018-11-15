@@ -1,0 +1,2 @@
+#!/bin/bash
+echo `date +%F.%T` $1 >> `date +F%`.log
