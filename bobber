@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $2 >> ~/codes/allcommits.log && git commit -m "$1" && cat $1 >> ~/codes/allcommits.log && git branch | grep \* | cut -d ' ' -f2 >> ~/codes/allcommits.log && git remote show origin >> ~/codes/allcommits.log && echo "" >> ~/codes/allcommits.log
+echo $2 >> ~/codes/allcommits.log && git commit -m "$1" && echo $1 >> ~/codes/allcommits.log && git branch | grep \* | cut -d ' ' -f2 >> ~/codes/allcommits.log && git remote show origin | head -n2 | tail -n1 | awk '{print $3}' >> ~/codes/allcommits.log && echo "" >> ~/codes/allcommits.log
